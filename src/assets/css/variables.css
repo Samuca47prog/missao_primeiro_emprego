@@ -1,0 +1,7 @@
+/* Define o tamanho geral dos elementos, podendo mudar dependendo do elemento */
+
+/* :root {
+  --tile-size: 48px; //define o tamanho do quadrado do tabuleiro
+  --helmet-offset: 12px; //define o desclocamento que passa do quadrado para o hero e o minidemon
+  --game-size: calc(var(--tile-size) * 20); //tamanho do tabuleiro: 20x20 quadradinhos
+}  */

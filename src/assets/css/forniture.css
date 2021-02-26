@@ -1,0 +1,7 @@
+.forniture {
+  position: absolute;
+  width: var(--tile-size);
+  height: var(--tile-size);
+  /* background: red; */
+  /* define uma cor ao objeto */
+}
